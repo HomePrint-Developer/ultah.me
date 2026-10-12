@@ -1,4 +1,4 @@
-# ultah 🎂💖
+# ultah.me 🎂💖
 
 Website statis interaktif yang dibuat khusus untuk memberikan kejutan ulang tahun (dan sedikit *prank*) kepada pacar tersayang. Menggunakan tema karakter **Bubu Dudu** yang menggemaskan!
 
