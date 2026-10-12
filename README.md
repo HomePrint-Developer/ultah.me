@@ -1,5 +1,7 @@
 # ultah.me 🎂💖
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Klik_Disini-ff69b4?style=for-the-badge)](https://homeprint-developer.github.io/ultah.me/)
+
 Website statis interaktif yang dibuat khusus untuk memberikan kejutan ulang tahun (dan sedikit *prank*) kepada pacar tersayang. Menggunakan tema karakter **Bubu Dudu** yang menggemaskan!
 
 Web ini dibangun menggunakan HTML, CSS, dan Vanilla JavaScript murni tanpa *framework*, sehingga sangat ringan dan mudah di-hosting secara gratis menggunakan **GitHub Pages**.
@@ -46,4 +48,8 @@ Website ini dirancang seperti sebuah permainan berurutan. Berikut adalah urutan 
 
 1. Lakukan *Clone* repositori ini:
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+   git clone https://github.com/homeprint-developer/ultah.me.git
+   ```
+2. Buka folder proyek `ultah.me`.
+3. Buka file `index.html` langsung di browser kamu (Chrome, Safari, Edge, dll).
+4. *Catatan Penting:* Karena menggunakan `sessionStorage` untuk sistem keamanan anti-curang, pastikan kamu selalu memulai *testing* dari `index.html`. Jika tidak, pop-up anti-curang akan muncul!
